@@ -1,0 +1,32 @@
+.titulo{
+    color:red;
+    font-size: 50px;
+    background-color: rgb(91, 248, 0);
+    height: 57px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.titulo2{
+    color:blue;
+    font-size: 50px;
+    background-color: rgb(47, 255, 47);
+    height: 57px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imagen{
+    height: 200px;width:200px
+}
+.button{
+    background-color: lightblue;
+    padding:10px;
+    border:none;
+    border-radius:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.enlace{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+.fondo{
+    background-color: blue;
+}
